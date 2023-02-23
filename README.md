@@ -141,6 +141,9 @@ Reading Documentation: [click here](https://open.appacademy.io/learn/student-han
 Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/asking-questions)
 
 ***
+## Helpful Cheatsheets
+> Be aware some extensions will override these shortcuts!
+![VSCode Shortcuts](https://preview.redd.it/8pf2oxatleja1.png?width=1730&format=png&auto=webp&v=enabled&s=72355655a332d043dcd836e56bc07652edbe18b0)
 
 ## Always More to Add!
 
