@@ -11,6 +11,17 @@ Lecture Questions Slack Channel: [#2023-02-20-online-questions](https://app-acad
 App Academy Open: [click here](open.appacademy.io/learn)
  
 ***
+
+## Table of Contents
+- [Cohort Roadmap](#cohort-roadmap)
+- [Upcoming Holidays](#upcoming-holidays-no-class)
+- [Daily Schedule](#daily-schedule)
+- [Weekly Schedule](#weekly-schedule)
+- [Helpful Resources](#helpful-resources)
+    - [Week 1: How to Break Down Problems](#week-1-how-to-break-down-problems)
+    - [VSCode Shortcuts](#vscode-shortcuts)
+- [Pair Programming Resources](#pair-programming-resources)
+- [Student Handbook Resources](#student-handbook-resources)
  
 ## Cohort Roadmap
 
@@ -118,6 +129,20 @@ Every week is different but this will be the rough schedule each week unless oth
 
 ***
 
+## Helpful Resources
+
+### Week 1: How to Break Down Problems
+> Be aware you can't use this on an assessment! Use this to help you study/practice! Also be aware this is not comprehensive and doesn't list all the methods we've learned so far! *(Also apologizes my handwriting is not the best--but GALAXY pen!? Beautiful 🌌)* 
+
+![Week 1 Break Down Problems](https://user-images.githubusercontent.com/89945390/221382017-fa4a4642-bb6e-4532-8acd-d85640fb7acf.png)
+
+### VSCode Shortcuts
+> Be aware some extensions will override these shortcuts!
+
+![VSCode Shortcuts](https://preview.redd.it/8pf2oxatleja1.png?width=1730&format=png&auto=webp&v=enabled&s=72355655a332d043dcd836e56bc07652edbe18b0)
+
+--------------------
+
 ## Pair Programming Resources
 
 Benefits of Pair Programming: [click here](https://open.appacademy.io/learn/student-handbook/supplemental-resources/benefits-of-pair-programming)
@@ -140,11 +165,10 @@ Reading Documentation: [click here](https://open.appacademy.io/learn/student-han
 
 Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/asking-questions)
 
-***
-## Helpful Cheatsheets
-> Be aware some extensions will override these shortcuts!
-![VSCode Shortcuts](https://preview.redd.it/8pf2oxatleja1.png?width=1730&format=png&auto=webp&v=enabled&s=72355655a332d043dcd836e56bc07652edbe18b0)
+------------------------
 
 ## Always More to Add!
 
 This is a live document and is not meant to comprehensively cover everything you might need as a student at App Academy. Check it periodically for new links and resources.
+
+> Back to [top⬆️](#february-cohort-resource-sheet)
