@@ -8,7 +8,9 @@ Main Slack Channel: [#2023-02-20-online](https://app-academy.slack.com/archives/
 
 Lecture Questions Slack Channel: [#2023-02-20-online-questions](https://app-academy.slack.com/archives/C04Q3JAJ1TN)
 
-App Academy Open: [click here](open.appacademy.io/learn)
+📚 App Academy Open: [click here](open.appacademy.io/learn)
+
+🗓 Book a 15-minute Meeting with Whit: [click here](https://calendly.com/whitminson/15-minute-meeting)
  
 ***
 
