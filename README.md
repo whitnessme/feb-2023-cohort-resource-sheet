@@ -133,6 +133,8 @@ Every week is different but this will be the rough schedule each week unless oth
 
 ## Helpful Resources
 
+### [GIT GUD GUIDE](https://github.com/whitnessme/feb-2023-cohort-resource-sheet/blob/main/GIT-guide.md#git-gud-guide)
+
 ### Week 1: How to Break Down Problems
 > Be aware you can't use this on an assessment! Use this to help you study/practice! Also be aware this is not comprehensive and doesn't list all the methods we've learned so far! *(Also apologizes my handwriting is not the best--but GALAXY pen!? Beautiful 🌌)* 
 
