@@ -1,4 +1,5 @@
 # GIT GUD Guide
+![git gud](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/789/055/datas/original.png)
 ### Table of Contents:
 - [*To get a local repo & remote repo connected:*](#to-get-a-local-repo--remote-repo-connected)
     - [DOWNLOAD WAY](#download-way)
