@@ -15,6 +15,7 @@
 ## To get a local repo & remote repo connected:
 #### DOWNLOAD WAY:
 ***Mac Users** - should be able to download directly
+
 ***Window Users** - Downloading a zipped folder via Ubuntu:
 - [ ] Open up your Ubuntu and run these 2 commands.
 	- `sudo apt install zip`
