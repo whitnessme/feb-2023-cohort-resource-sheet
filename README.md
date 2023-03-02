@@ -134,12 +134,18 @@ Every week is different but this will be the rough schedule each week unless oth
 
 ## Helpful Resources
 
-### - [GIT GUD GUIDE](https://github.com/whitnessme/feb-2023-cohort-resource-sheet/blob/main/GIT-guide.md#git-gud-guide)
+- [**GIT GUD GUIDE**](https://github.com/whitnessme/feb-2023-cohort-resource-sheet/blob/main/GIT-guide.md#git-gud-guide)
+
+![git gud](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/789/055/datas/original.png)
+
+---------
 
 ### Week 1: How to Break Down Problems
 > Be aware you can't use this on an assessment! Use this to help you study/practice! Also be aware this is not comprehensive and doesn't list all the methods we've learned so far! *(Also apologizes my handwriting is not the best--but GALAXY pen!? Beautiful 🌌)* 
 
 ![Week 1 Break Down Problems](https://user-images.githubusercontent.com/89945390/221382017-fa4a4642-bb6e-4532-8acd-d85640fb7acf.png)
+
+-------------------------
 
 ### VSCode Shortcuts
 > Be aware some extensions will override these shortcuts!
