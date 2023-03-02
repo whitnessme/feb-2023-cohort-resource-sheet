@@ -114,3 +114,5 @@ or
 - [ ] `git add .`
 - [ ] `git commit -m “message here”`
 - [ ] `git push`
+------------------------------
+Back to [Feb Cohort Resource Sheet 🔙](https://github.com/whitnessme/feb-2023-cohort-resource-sheet#february-cohort-resource-sheet)
