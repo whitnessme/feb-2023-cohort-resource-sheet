@@ -25,6 +25,7 @@ Lecture Questions Slack Channel: [#2023-02-20-online-questions](https://app-acad
     - [VSCode Shortcuts](#vscode-shortcuts)
 - [Pair Programming Resources](#pair-programming-resources)
 - [Student Handbook Resources](#student-handbook-resources)
+- [Emoji Legacy](#emoji-legacy)
  
 ## Cohort Roadmap
 
@@ -177,6 +178,17 @@ Reading Documentation: [click here](https://open.appacademy.io/learn/student-han
 Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook/code-of-conduct/asking-questions)
 
 ------------------------
+## Emoji Legacy
+1. **Amen:**
+<div>
+<img src="https://user-images.githubusercontent.com/89945390/223805709-9acb05e2-6f6a-4f23-8095-ffc6a4a43401.jpg"  width="200">
+</div>
+
+
+2. **Learning Recursion:** 
+<div>
+<img src="https://user-images.githubusercontent.com/89945390/223805734-ff5ac31d-bc07-4058-8d2e-e8ff786703ae.gif"  width="200">
+</div>
 
 ## Always More to Add!
 
