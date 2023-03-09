@@ -20,7 +20,7 @@ Lecture Questions Slack Channel: [#2023-02-20-online-questions](https://app-acad
 - [Daily Schedule](#daily-schedule)
 - [Weekly Schedule](#weekly-schedule)
 - [Helpful Resources](#helpful-resources)
-    - [Recursion Walkthrough - deepDup Whiteboarding](#recursion-walkthrough-deepdup-whiteboarding)
+    - [Recursion Walkthrough - deepDup Whiteboarding](#recursion-walkthrough-deepdup---whiteboarding)
     - [GIT GUD GUIDE](https://github.com/whitnessme/feb-2023-cohort-resource-sheet/blob/main/GIT-guide.md#git-gud-guide)
     - [Week 1: How to Break Down Problems](#week-1-how-to-break-down-problems)
     - [VSCode Shortcuts](#vscode-shortcuts)
