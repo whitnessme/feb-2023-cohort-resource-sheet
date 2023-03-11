@@ -30,7 +30,7 @@ Lecture Questions Slack Channel: [#2023-02-20-online-questions](https://app-acad
  
 ## Cohort Roadmap
 
-![roadmap_mod1](https://user-images.githubusercontent.com/89945390/219828091-7fc6ab1a-f7fb-4ae2-8df8-db815dba88a7.png)
+![roadmap_mod2](https://user-images.githubusercontent.com/89945390/224460278-88149db5-72ae-4565-9e4c-4f399adc4d47.png)
 
 Where we are and where we're going!
 
