@@ -27,6 +27,7 @@ Lecture Questions Slack Channel: [#2023-02-20-online-questions](https://app-acad
 - [Pair Programming Resources](#pair-programming-resources)
 - [Student Handbook Resources](#student-handbook-resources)
 - [Emoji Legacy](#emoji-legacy)
+- [Funny Quotes](#funny-quotes)
  
 ## Cohort Roadmap
 
@@ -194,6 +195,11 @@ Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook
 <div>
 <img src="https://user-images.githubusercontent.com/89945390/223805734-ff5ac31d-bc07-4058-8d2e-e8ff786703ae.gif"  width="200">
 </div>
+
+## Funny Quotes
+![well-articulated-programming](https://user-images.githubusercontent.com/89945390/224850485-46cf6911-80e7-4f49-aa1a-8d692ce95e96.png)
+
+> *-Thank you Sophie for this one* 🤣
 
 ## Always More to Add!
 
