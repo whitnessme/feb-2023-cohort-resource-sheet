@@ -186,15 +186,26 @@ Asking Questions: [click here](https://open.appacademy.io/learn/student-handbook
 ------------------------
 ## Emoji Legacy
 1. **Amen:**
+
 <div>
 <img src="https://user-images.githubusercontent.com/89945390/223805709-9acb05e2-6f6a-4f23-8095-ffc6a4a43401.jpg"  width="200">
 </div>
 
 
+
 2. **Learning Recursion:** 
+
 <div>
 <img src="https://user-images.githubusercontent.com/89945390/223805734-ff5ac31d-bc07-4058-8d2e-e8ff786703ae.gif"  width="200">
 </div>
+
+
+3. **We can do it!**
+
+<div>
+<img src="https://user-images.githubusercontent.com/89945390/225047531-4bbba2a2-30ef-487f-a524-9e124e69c6c3.png"  width="200">
+</div>
+
 
 ## Funny Quotes
 ![well-articulated-programming](https://user-images.githubusercontent.com/89945390/224850485-46cf6911-80e7-4f49-aa1a-8d692ce95e96.png)
