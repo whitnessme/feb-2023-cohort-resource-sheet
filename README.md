@@ -2,6 +2,8 @@
 
 Cohort: **February 2023 / 2023-02-20**
 
+> Hello Feb Cohort! I'm sorry I did not get to say goodbye in person. I will leave up this resource sheet just in case you want it. And I feel like I should give you all the image of the roadmap I had planned for you. Please do amazing and I'm sorry I won't be there with you along the journey! 
+
 Lead Cohort TA: [Whit Minson](https://whitnessme.github.io/)
 
 Main Slack Channel: [#2023-02-20-online](https://app-academy.slack.com/archives/C04KY1VFLTH)
